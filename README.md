@@ -23,7 +23,7 @@
 
 ## 업무 기능도
 ---
-<img width="60%" src="https://user-images.githubusercontent.com/88218891/203600150-c539ebaa-acc4-4ac6-9715-1f8271871dc3.png"/>
+<img width="30%" src="https://user-images.githubusercontent.com/88218891/203600150-c539ebaa-acc4-4ac6-9715-1f8271871dc3.png"/>
 
 
 ## 요구사항 분석
