@@ -25,6 +25,11 @@
 ---
 <img width="30%" src="https://user-images.githubusercontent.com/88218891/203600150-c539ebaa-acc4-4ac6-9715-1f8271871dc3.png"/>
 
+## 사용한 DBMS
+
+데이터 무결성을 보장해야하는 은행DB의 특성상 RDB가 적합하다고 생각했고, RDB의 대표격이라고 할 수 있는 MySQL을 채택함.
+<img src="https://user-images.githubusercontent.com/88218891/203605537-34908fc7-a800-4569-90d5-7a8df8436232.png"/>
+
 
 ## 요구사항 분석
 ---
